@@ -10,7 +10,7 @@ You can use it as system `.contextMenu` modifier
 
 ### Display custom view as context menu preview
 
-[custom preview](./Resources/context_menu.gif)
+![custom preview](./Resources/context_menu.gif)
 
 code:
 
@@ -30,7 +30,7 @@ Text("Popup custom preview!")
 
 ### Display destination as preview 
 
-[destination view](./Resources/menu_destination.gif)
+![destination view](./Resources/menu_destination.gif)
 
 code:
 
@@ -45,7 +45,7 @@ Text("Popup destination as preview!")
 
 ### Custom context preview and destination
 
-[preview and destination](./Resources/custom_menu_destination.gif)
+![preview and destination](./Resources/custom_menu_destination.gif)
 
 code:
 
@@ -69,7 +69,7 @@ Text("Popup custom preview and destination!")
 
 ### Custom preferred size for preview 
 
-[preferred size preview](./Resources/custom_preview_size.gif)
+![preferred size preview](./Resources/custom_preview_size.gif)
 
 ```code
 Text("Custom Preview and destination with custom size!")
@@ -92,7 +92,7 @@ Text("Custom Preview and destination with custom size!")
 
 ### Popup destination view as sheet
 
-[sheet destination](./Resources/menu_sheet.gif)
+![sheet destination](./Resources/menu_sheet.gif)
 
 code:
 
