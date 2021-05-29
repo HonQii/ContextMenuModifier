@@ -10,7 +10,9 @@ You can use it as system `.contextMenu` modifier
 
 ### Display custom view as context menu preview
 
-![custom preview](./Resources/context_menu.gif)
+<div align="center">
+	<img src="./Resources/context_menu.gif" alt="custom preview" width="280">
+</div>
 
 code:
 
@@ -30,7 +32,9 @@ Text("Popup custom preview!")
 
 ### Display destination as preview 
 
-![destination view](./Resources/menu_destination.gif)
+<div align="center">
+	<img src="./Resources/menu_destination.gif" alt="destination view" width="280">
+</div>
 
 code:
 
@@ -45,7 +49,9 @@ Text("Popup destination as preview!")
 
 ### Custom context preview and destination
 
-![preview and destination](./Resources/custom_menu_destination.gif)
+<div align="center">
+	<img src="./Resources/custom_menu_destination.gif" alt="preview and destination" width="280">
+</div>
 
 code:
 
@@ -69,7 +75,9 @@ Text("Popup custom preview and destination!")
 
 ### Custom preferred size for preview 
 
-![preferred size preview](./Resources/custom_preview_size.gif)
+<div align="center">
+	<img src="./Resources/custom_preview_size.gif" alt="preferred size preview" width="280">
+</div>
 
 ```code
 Text("Custom Preview and destination with custom size!")
@@ -92,7 +100,9 @@ Text("Custom Preview and destination with custom size!")
 
 ### Popup destination view as sheet
 
-![sheet destination](./Resources/menu_sheet.gif)
+<div align="center">
+	<img src="./Resources/menu_sheet.gif" alt="sheet destination" width="280">
+</div>
 
 code:
 
